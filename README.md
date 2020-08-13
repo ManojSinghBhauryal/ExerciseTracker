@@ -4,9 +4,9 @@
 
 ```
 
-_ ReactJs
-_ NodeJs
-_ Expressjs
-_ MongoDb
+- ReactJs
+- NodeJs
+- Expressjs
+- MongoDb
 
 ```
